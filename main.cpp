@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 
+
 // Structure to store information about a train
 struct Train {
   int trainNumber;
