@@ -28,7 +28,7 @@ void bookTicket(std::vector<Train>& trains) {
   std::cout << "Enter train number: ";
   int trainNumber;
   std::cin >> trainNumber;
-
+}
   bool found = false;
   Train selectedTrain;
 
@@ -86,4 +86,4 @@ void bookTicket(std::vector<Train>& trains) {
     }
 
     std::cout << "Ticket price: " << ticketPrice << std::endl;
-    std::cout << "Ticket booked successfully
+    std::cout << "Ticket booked successfully" << std::endl;}
