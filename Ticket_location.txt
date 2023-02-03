@@ -1,0 +1,6 @@
+Butterworth     
+Bkt.Tengah      
+Bkt.Mertajam   
+Spg.Ampat       
+Nibong_Tebal   
+Parit_Buntar    

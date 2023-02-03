@@ -7,7 +7,10 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "${workspaceFolder}/main.cpp",
+                "${workspaceFolder}/Account.cpp",
+                "${workspaceFolder}/Ticket.cpp",
+                "${workspaceFolder}/Admin.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
